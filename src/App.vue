@@ -1268,7 +1268,6 @@ body.hideOverflow{  //disabling scrolling when the h. button is clicked
                                 opacity: 1;
                                 font-size: 1.6rem;
                                 font-weight: $bold;
-                                font-weight: $medium;
                                 font-size: 1.5rem;
                                 text-transform: capitalize;
                                 color: rgb(0, 0, 0);
