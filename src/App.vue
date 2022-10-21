@@ -1291,7 +1291,7 @@ body.hideOverflow{  //disabling scrolling when the h. button is clicked
      
                             #page-header-resume{
                                 font-size: 1.5rem;
-                                font-weight: 500;
+                                font-weight: $bold;
                                 border: none;
                                 text-transform: capitalize;
                                 color: rgb(0, 0, 0);
